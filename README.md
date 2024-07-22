@@ -25,9 +25,8 @@ Before setting up the project, ensure you have the following installed:
 Clone the repository to your local machine using GitHub Desktop or Git:
 
 ```zsh
-gh repo clone Camnaz/core-pyth-feed-boilerplate
-cd core-pyth-feed-boilerplate
-cd pyth-feed-boilerplate
+gh repo clone Camnaz/Core-Pyth-Feed-Boiler
+cd Core-Pyth-Feed-Boiler
 ```
 
 ### 2. Install Dependencies
@@ -41,6 +40,7 @@ Navigate to the frontend directory and install the dependencies:
 ```zsh
 cd frontend
 npm install
+cd ..
 ```
 
 ### 3. Configure the Project
