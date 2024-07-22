@@ -1,4 +1,4 @@
-# core-pyth-feed-boilerplate
+# Core Pyth Feed Boilerplate
 
 Pyth Feed Boilerplate is a React-based dApp for fetching and displaying real-time price feeds from the Pyth Network. This boilerplate provides a quickstart template for developers to quickly create similar applications on the Core blockchain.
 
