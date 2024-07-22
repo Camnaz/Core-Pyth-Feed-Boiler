@@ -36,6 +36,13 @@ Navigate to the project directory and install the necessary dependencies:
 ```
 npm install
 ```
+Navigate to the frontend directory and install the dependencies:
+
+```zsh
+cd frontend
+npm install
+```
+
 ### 3. Configure the Project
 
 - Add **Private Key**: Create a '**secret.json**' file in the project root and add your private key.
